@@ -1,4 +1,4 @@
-# Robustness Exploration of Semantic Information in Adversarial Training
+# Semantically Consistent Visual Representation for Adversarial Robustnes
 
 ## Introduction
 ### This is the implementation of the paper ["Semantically Consistent Visual Representation for Adversarial Robustness"]
