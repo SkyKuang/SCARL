@@ -1,7 +1,7 @@
 # Robustness Exploration of Semantic Information in Adversarial Training
 
 ## Introduction
-### This is the implementation of the ICLR2023 submission ["Robustness Exploration of Semantic Information in Adversarial Training"]
+### This is the implementation of the paper ["Semantically Consistent Visual Representation for Adversarial Robustness"]
 
 ## Usage
 ### Installation
